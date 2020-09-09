@@ -1,0 +1,7 @@
+E:\dotnet class\ConArrayandYield\bin\Debug\ConArrayandYield.exe.config
+E:\dotnet class\ConArrayandYield\bin\Debug\ConArrayandYield.exe
+E:\dotnet class\ConArrayandYield\bin\Debug\ConArrayandYield.pdb
+E:\dotnet class\ConArrayandYield\obj\Debug\ConArrayandYield.csprojAssemblyReference.cache
+E:\dotnet class\ConArrayandYield\obj\Debug\ConArrayandYield.csproj.CoreCompileInputs.cache
+E:\dotnet class\ConArrayandYield\obj\Debug\ConArrayandYield.exe
+E:\dotnet class\ConArrayandYield\obj\Debug\ConArrayandYield.pdb
